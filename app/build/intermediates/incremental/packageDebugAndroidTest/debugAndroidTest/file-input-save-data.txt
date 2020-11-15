@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 15 09:14:22 CST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\ugunt\\Desktop\\Sruthi_CS\\android-fundamentals-apps-v2-master\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

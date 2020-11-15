@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ugunt\\Desktop\\Sruthi_CS\\android-fundamentals-apps-v2-master\\Scorekeeper\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ugunt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\063ddc5c85a8b8d06894ffdb54372835\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
